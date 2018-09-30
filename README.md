@@ -1,6 +1,8 @@
 # vue-cli-plugin-rupture
 
-[Rupture](https://github.com/jescalan/rupture) support for the projects created with [@vue/cli](https://github.com/vuejs/vue-cli).
+DOESNT WORK YET
+
+SHOULD [Rupture](https://github.com/jescalan/rupture) support for the projects created with [@vue/cli](https://github.com/vuejs/vue-cli).
 
 ## Installation
 
