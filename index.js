@@ -1,11 +1,16 @@
 const rupture = require('rupture');
 
-module.exports = {
-  css: {
-    loaderOptions: {
-      stylus: {
-        use: [rupture]
+module.exports = function(API) {
+  return API.configureWebpack(function() {
+    {
+      module: {
+        rules: [
+          {
+            loader: 'stylus-loader',
+            use: [rupture()]
+          }
+        ]
       }
     }
-  }
+  });
 };
