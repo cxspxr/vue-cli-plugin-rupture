@@ -4,7 +4,7 @@ module.exports = {
   css: {
     loaderOptions: {
       stylus: {
-        use: [rupture()]
+        use: [rupture]
       }
     }
   }
