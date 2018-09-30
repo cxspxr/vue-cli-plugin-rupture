@@ -1,0 +1,26 @@
+{
+  "name": "vue-cli-plugin-rupture",
+  "version": "0.1.0",
+  "description": "Rupture support for your @vue/cli project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cxsper/vue-cli-plugin-rupture.git"
+  },
+  "keywords": [
+    "rupture",
+    "stylus",
+    "vue-cli",
+    "vue",
+    "vuejs"
+  ],
+  "author": "ilovewindows96@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cxsper/vue-cli-plugin-rupture/issues"
+  },
+  "homepage": "https://github.com/cxsper/vue-cli-plugin-rupture#readme"
+}
