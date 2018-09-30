@@ -8,7 +8,9 @@ module.exports = function(API) {
           {
             test: /\.(styl|sss|stylus)$/,
             loader: 'stylus-loader',
-            use: [rupture()]
+            import: [
+              '~rupture/rupture/index.styl'
+            ]
           }
         ]
       }

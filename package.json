@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-rupture",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Rupture support for your @vue/cli project",
   "main": "index.js",
   "scripts": {
