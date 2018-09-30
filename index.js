@@ -6,6 +6,7 @@ module.exports = function(API) {
       module: {
         rules: [
           {
+            test: /\.(styl|sss)$/,
             loader: 'stylus-loader',
             use: [rupture()]
           }
